@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 AA
 BB
 CC
 XX
+AAA
+BBB
+XXX
+>>>>>>> alt1
